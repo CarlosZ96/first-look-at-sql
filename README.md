@@ -36,7 +36,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 - Languages: SQL.
-- Technologies used: Linters, Github, Visual Code, PosrgreSQL.
+- Technologies used: Linters, Github, Visual Code, PostgreSQL.
 
 <!-- Features -->
 
@@ -45,7 +45,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--coming soo..
+-coming soon..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
