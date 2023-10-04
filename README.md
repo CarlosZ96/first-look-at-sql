@@ -36,7 +36,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 - Languages: SQL.
-- Technologies used: Linters, Github, Visual Code, PosrgreSQL.
+- Technologies used: Linters, Github, Visual Code, PostgreSQL.
 
 <!-- Features -->
 
